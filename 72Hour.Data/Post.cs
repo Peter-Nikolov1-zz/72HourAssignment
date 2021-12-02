@@ -23,5 +23,7 @@ namespace _72Hour.Data
 
         [Required]
         public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset ModifiedUtc { get; set; }
+
     }
 }

@@ -14,3 +14,9 @@ C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\obj\Debug\72Hour.Se
 C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\obj\Debug\72Hour.Services.csproj.CopyComplete
 C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\obj\Debug\72Hour.Services.dll
 C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\obj\Debug\72Hour.Services.pdb
+C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\bin\Debug\72Hour.Data.dll
+C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\bin\Debug\72Hour.Models.dll
+C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\bin\Debug\72Hour.Data.pdb
+C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\bin\Debug\72Hour.Data.dll.config
+C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\bin\Debug\72Hour.Models.pdb
+C:\Users\nikol\source\repos\72HourAssignment\72Hour.Services\bin\Debug\72Hour.Models.dll.config
