@@ -9,7 +9,7 @@ namespace _72Hour.Models
 {
     public class PostListItems
     {
-        public int PostID { get; set; }
+        public int PostId { get; set; }
         public string Title { get; set; }
         [Display(Name="Created")]
         public DateTimeOffset CreatedUtc { get; set; }
