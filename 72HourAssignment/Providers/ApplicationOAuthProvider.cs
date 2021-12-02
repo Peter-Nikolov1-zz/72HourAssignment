@@ -10,6 +10,7 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
 using _72HourAssignment.Models;
+using _72Hour.Data;
 
 namespace _72HourAssignment.Providers
 {

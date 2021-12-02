@@ -13,13 +13,13 @@ namespace _72Hour.Data
         public int PostId { get; set; }
 
         [Required]
+        public Guid AuthorId { get; set; }
+
+        [Required]
         public string Title { get; set; }
 
         [Required]
         public string Content { get; set; }
-
-        [Required]
-        public Guid AuthorId { get; set; }
 
         [Required]
         public DateTimeOffset CreatedUtc { get; set; }
